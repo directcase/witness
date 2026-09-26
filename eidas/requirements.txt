@@ -1,0 +1,2 @@
+pyHanko[pkcs11]>=0.37
+certifi
