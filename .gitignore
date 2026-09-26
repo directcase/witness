@@ -1,0 +1,9 @@
+captures/
+witness/prover/target/
+__pycache__/
+# eIDAS signing: local config (may hold the PIN), venv, compiled keychain helper
+eidas/.env
+eidas/.venv/
+eidas/keychain_sign
+*.partial
+.DS_Store

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "obchod-cz-aspi-pravni-informacni-system-p5543-html",
+    "url": "https://obchod.wolterskluwer.cz/cz/aspi-pravni-informacni-system.p5543.html",
+    "expect": []
+  },
+  {
+    "id": "static-wolterskluwer-cz-webroots-obchod-content-navody-aspi-",
+    "url": "https://static.cream.sk/wolterskluwer.cz/webroots/obchod/content/navody/ASPI_Katalog.pdf",
+    "expect": []
+  },
+  {
+    "id": "libratech-cs-product-legal-content",
+    "url": "https://libratech.ai/cs/product/legal-content",
+    "expect": []
+  },
+  {
+    "id": "libratech-cs-pricing",
+    "url": "https://libratech.ai/cs/pricing",
+    "expect": []
+  },
+  {
+    "id": "libratech-cs-product-add-ins",
+    "url": "https://libratech.ai/cs/product/add-ins",
+    "expect": []
+  },
+  {
+    "id": "libratech-cs-terms-czech-republic",
+    "url": "https://libratech.ai/cs/terms/czech-republic",
+    "expect": []
+  },
+  {
+    "id": "beck-online",
+    "url": "https://www.beck-online.cz/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-beck-online-pro",
+    "url": "https://www.beck-online.cz/beck-online-pro/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-beck-online-ai",
+    "url": "https://www.beck-online.cz/beck-online-ai/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-beck-online-start",
+    "url": "https://www.beck-online.cz/beck-online-start/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-faq",
+    "url": "https://www.beck-online.cz/faq/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-vop-2024",
+    "url": "https://www.beck-online.cz/vop-2024/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-cenik",
+    "url": "https://www.beck-online.cz/cenik/",
+    "expect": []
+  },
+  {
+    "id": "beck-online-robots-txt",
+    "url": "https://www.beck-online.cz/robots.txt",
+    "expect": []
+  },
+  {
+    "id": "beck-online-sitemap-index-xml",
+    "url": "https://www.beck-online.cz/sitemap_index.xml",
+    "expect": []
+  },
+  {
+    "id": "codexis",
+    "url": "https://codexis.ai/",
+    "expect": []
+  },
+  {
+    "id": "codexis-zdroje",
+    "url": "https://codexis.ai/zdroje/",
+    "expect": []
+  },
+  {
+    "id": "codexis-guide-codexis-ai-vs-chatgpt",
+    "url": "https://codexis.ai/guide/codexis-ai-vs-chatgpt/",
+    "expect": []
+  },
+  {
+    "id": "codexis-guide-kredity-a-cenik-kreditove-balicky",
+    "url": "https://codexis.ai/guide/kredity-a-cenik/kreditove-balicky/",
+    "expect": []
+  },
+  {
+    "id": "codexis-codexis-ai-2-0-faq-integrated-systems",
+    "url": "https://codexis.ai/codexis-ai-2-0/faq/integrated-systems/",
+    "expect": []
+  },
+  {
+    "id": "codexis-codexis-ai-2-0-integrace-microsoft-365",
+    "url": "https://codexis.ai/codexis-ai-2-0/integrace/microsoft-365/",
+    "expect": []
+  },
+  {
+    "id": "codexis-codexis-ai-vs-agent",
+    "url": "https://codexis.ai/codexis-ai-vs-agent/",
+    "expect": []
+  },
+  {
+    "id": "codexis-pro-koho-cak",
+    "url": "https://codexis.ai/pro-koho/cak/",
+    "expect": []
+  },
+  {
+    "id": "codexis-pro-koho-studenti",
+    "url": "https://codexis.ai/pro-koho/studenti/",
+    "expect": []
+  },
+  {
+    "id": "codexis-2",
+    "url": "https://codexis.cz/",
+    "expect": []
+  },
+  {
+    "id": "codexis-doplnky-a-monitory-judikatura-eu-ai",
+    "url": "https://codexis.cz/doplnky-a-monitory/judikatura-eu-ai/",
+    "expect": []
+  },
+  {
+    "id": "codexis-doplnky-a-monitory-verejne-zakazky",
+    "url": "https://codexis.cz/doplnky-a-monitory/verejne-zakazky/",
+    "expect": []
+  },
+  {
+    "id": "codexis-doplnky-a-monitory-komentare-liberis",
+    "url": "https://codexis.cz/doplnky-a-monitory/komentare-liberis/",
+    "expect": []
+  },
+  {
+    "id": "codexis-cdxgreen-veobecn-obchodn-a-licenn-podmnky-pdf",
+    "url": "https://codexis.s3.dualstack.eu-west-1.amazonaws.com/cdxgreen/V%C5%A1eobecn%C3%A9%20obchodn%C3%AD%20a%20licen%C4%8Dn%C3%AD%20podm%C3%ADnky.pdf",
+    "expect": []
+  },
+  {
+    "id": "atlasgroup",
+    "url": "https://atlasgroup.cz/",
+    "expect": []
+  },
+  {
+    "id": "directcase-cz-cs-home",
+    "url": "https://www.directcase.ai/cz/cs/home/",
+    "expect": []
+  },
+  {
+    "id": "directcase-cz-cs-counts",
+    "url": "https://www.directcase.ai/cz/cs/counts/",
+    "expect": []
+  },
+  {
+    "id": "directcase-cz-cs-connector",
+    "url": "https://www.directcase.ai/cz/cs/connector/",
+    "expect": []
+  },
+  {
+    "id": "directcase-cz-cs-terms",
+    "url": "https://www.directcase.ai/cz/cs/terms/",
+    "expect": []
+  },
+  {
+    "id": "lawrenceai",
+    "url": "https://lawrenceai.cz/",
+    "expect": []
+  },
+  {
+    "id": "lawrenceai-faq",
+    "url": "https://lawrenceai.cz/faq",
+    "expect": []
+  },
+  {
+    "id": "lawrenceai-pricing",
+    "url": "https://lawrenceai.cz/pricing",
+    "expect": []
+  },
+  {
+    "id": "lawrenceai-mcp-acceptable-use",
+    "url": "https://lawrenceai.cz/mcp-acceptable-use",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-sources",
+    "url": "https://praktik.ai/cs/sources/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-docs-data-sources-legislation",
+    "url": "https://praktik.ai/cs/docs/data-sources/legislation/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-docs-data-sources-additional-sources",
+    "url": "https://praktik.ai/cs/docs/data-sources/additional-sources/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-docs-chat",
+    "url": "https://praktik.ai/cs/docs/chat/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-docs-mcp",
+    "url": "https://praktik.ai/cs/docs/mcp/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-docs-credits",
+    "url": "https://praktik.ai/cs/docs/credits/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-pricing",
+    "url": "https://praktik.ai/cs/pricing/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-features-word-add-in",
+    "url": "https://praktik.ai/cs/features/word-add-in/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-solutions-solo-practitioners",
+    "url": "https://praktik.ai/cs/solutions/solo-practitioners/",
+    "expect": []
+  },
+  {
+    "id": "praktik-cs-terms-of-service",
+    "url": "https://praktik.ai/cs/terms-of-service/",
+    "expect": []
+  },
+  {
+    "id": "praktik-llms-txt",
+    "url": "https://praktik.ai/llms.txt",
+    "expect": []
+  },
+  {
+    "id": "praktik-sitemap-index-xml",
+    "url": "https://praktik.ai/sitemap-index.xml",
+    "expect": []
+  },
+  {
+    "id": "robopravnik",
+    "url": "https://robopravnik.cz/",
+    "expect": []
+  },
+  {
+    "id": "robopravnik-docs-doc-obchodni-podminky",
+    "url": "https://robopravnik.cz/docs/doc/obchodni_podminky",
+    "expect": []
+  },
+  {
+    "id": "mcp",
+    "url": "https://mcp.slv.cz/",
+    "expect": []
+  },
+  {
+    "id": "mcp-user-terms-cgi",
+    "url": "https://mcp.slv.cz/user/terms.cgi",
+    "expect": []
+  },
+  {
+    "id": "slv",
+    "url": "https://www.slv.cz/",
+    "expect": []
+  },
+  {
+    "id": "kraken",
+    "url": "https://kraken.slv.cz/",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-clanek-seznam-vlastnosti-a-funkci-htm",
+    "url": "https://www.zakonyprolidi.cz/clanek/seznam-vlastnosti-a-funkci.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-clanek-o-projektu-htm",
+    "url": "https://www.zakonyprolidi.cz/clanek/o-projektu.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-clanek-plus-cenik-htm",
+    "url": "https://www.zakonyprolidi.cz/clanek/plus-cenik.htm",
+    "expect": [
+      "1 rok: 1 890 Kč",
+      "Tyto ceny se vždy vztahují k jednomu uživatelskému účtu a zahrnují DPH."
+    ]
+  },
+  {
+    "id": "zakonyprolidi-clanek-podminky-pouziti-htm",
+    "url": "https://www.zakonyprolidi.cz/clanek/podminky-pouziti.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-blog-pravoeu-spusteno-htm",
+    "url": "https://www.zakonyprolidi.cz/blog/pravoeu-spusteno.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-blog-komentar-k-1990z595-htm",
+    "url": "https://www.zakonyprolidi.cz/blog/komentar-k-1990z595.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-monitor-8198024-htm",
+    "url": "https://www.zakonyprolidi.cz/monitor/8198024.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-help-api-htm",
+    "url": "https://www.zakonyprolidi.cz/help/api.htm",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-alex",
+    "url": "https://www.zakonyprolidi.cz/alex",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidi-plus-na-zkousku",
+    "url": "https://www.zakonyprolidi.cz/plus-na-zkousku",
+    "expect": []
+  },
+  {
+    "id": "zakonyprolidiplus",
+    "url": "https://www.zakonyprolidiplus.cz/",
+    "expect": []
+  },
+  {
+    "id": "aspi",
+    "url": "https://aspi.cz/",
+    "expect": []
+  }
+]
